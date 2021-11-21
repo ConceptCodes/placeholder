@@ -1,0 +1,17 @@
+{
+  "name": "placeholder",
+  "version": "1.0.0",
+  "description": "api that returns a placeholder image, basically placeholder.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "conceptcodes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
