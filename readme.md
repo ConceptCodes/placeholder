@@ -1,10 +1,11 @@
 # Placeholder Image Api
 
 ### Overview of API
+ 
 
-- GET    `/:size`	        returns an image with given size
-
-
+| Request       | Description   |
+| ------------- | ------------- |
+| GET `/:size`  | returns an solid gray image with given size| 
 
 ## Project setup
 ```
