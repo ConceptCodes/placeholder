@@ -4,7 +4,8 @@
   "description": "api that returns a placeholder image, basically placeholder.com",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "conceptcodes",
   "license": "MIT",
