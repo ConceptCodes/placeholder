@@ -9,7 +9,9 @@
   "author": "conceptcodes",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "canvas": "^2.8.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
