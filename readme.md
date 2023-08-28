@@ -5,14 +5,13 @@
 
 | Request       | Description   |
 | ------------- | ------------- |
-| GET `/:size`  | returns an solid gray image with given size| 
+| GET `/:size`  | returns a solid gray image of the given size| 
 
 ## Project setup
 ```
 git clone https://github.com/ConceptCodes/placeholder.git
 cd placeholder
 yarn install
-yarn dev
 ```
 
 ### Run
